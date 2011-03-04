@@ -1,0 +1,13 @@
+# This is an example what `config.py` could be.
+# Keep real `config.py` file secret.
+
+bind_port = 9240
+api_secret = "Get yours at https://notifo.com/user/settings"
+
+amqp = {
+    "host": "localhost",
+    "port": 5672,
+    "vhost": "/",
+    "username": "guest",
+    "password": "guest",
+}
