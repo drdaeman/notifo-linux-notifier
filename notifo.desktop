@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Notifo
+Comment=Notifo notifications
+Icon=applications-email-panel
+Type=Application
+StartupNotify=False
+Terminal=False
+NotShowIn=GNOME;

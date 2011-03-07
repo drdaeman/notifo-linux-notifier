@@ -19,7 +19,8 @@ from the Internet, and run second one on your desktop. Hopefully, things
 should work.
 
 The code was written in an hour or two, so it contain bugs and lack features.
-However, it works for me. Feel free to contribute.
+However, even though it's ugly, it works for me. Feel free to contribute and/or
+criticize.
 
 License (Expat ("MIT") license)
 -------------------------------
